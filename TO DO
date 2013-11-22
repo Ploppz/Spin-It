@@ -1,0 +1,15 @@
+TODO:
+
+	Critical:
+		- MAKE A FUCKING MENU
+		
+	
+		- Thruster rendering. Keep the letter inside the Earth (graphically).
+		- Earth rendering!!
+		
+	Wanted:
+		- Other planets.
+			· Planet collision physics!
+			
+	Eventual (if time):
+		- Optimizing background scrolling using multiple threads.
